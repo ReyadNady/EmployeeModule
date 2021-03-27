@@ -1,0 +1,7 @@
+2021/03/23 4:11:07 PM ==> INSERT INTO [dbo].[tbEmployees]([employeeName],[employeeCountryCode],[employeeCCName],[employeePhone],[employeeAddress],[emmployeeArchiveStatus]) VALUES(N'أحمد',N'+20',N'EG',N'01017364909',N'الهرم',N'0')Funcation name : ExecuteNonQuery
+2021/03/23 4:13:20 PM ==> INSERT INTO [dbo].[tbEmployees]([employeeName],[employeeCountryCode],[employeeCCName],[employeePhone],[employeeAddress],[emmployeeArchiveStatus]) VALUES(N'أحمد',N'+20',N'EG',N'01017364909',N'الهرم',N'0')Funcation name : ExecuteNonQuery
+2021/03/23 6:32:08 PM ==> UPDATE [dbo].[tbEmployees]SET [employeeName]على,[employeeCountryCode]+20,[employeeCCName]EG,[employeePhone]01017364909,[employeeAddress]العمرانية,[emmployeeArchiveStatus]0WHERE [employeeId] =4Funcation name : ExecuteNonQuery
+2021/03/23 6:35:03 PM ==> UPDATE [dbo].[tbEmployees]SET [employeeName]على,[employeeCountryCode]+20,[employeeCCName]EG,[employeePhone]01017364909,[employeeAddress]العمرانية,[emmployeeArchiveStatus]0WHERE [employeeId] =4Funcation name : ExecuteNonQuery
+2021/03/23 6:51:21 PM ==> UPDATE [dbo].[tbEmployees]SET [employeeName] = N'على',[employeeCountryCode] = N'+20',[employeeCCName] = N'EG',[employeePhone] = N'01017364909',[employeeAddress] = N'العمرانية',[emmployeeArchiveStatus] = N'0 WHERE [employeeId] = N'6'Funcation name : ExecuteNonQuery
+2021/03/23 7:47:46 PM ==> DELETE FROM [dbo].[tbEmployees]' WHERE [employeeId] = N'4'Funcation name : ExecuteNonQuery
+2021/03/23 8:02:16 PM ==> DELETE FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery

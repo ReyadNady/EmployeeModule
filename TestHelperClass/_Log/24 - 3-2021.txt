@@ -1,0 +1,19 @@
+2021/03/24 12:09:53 PM ==> SELECT FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:11:57 PM ==> DELETE FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:12:03 PM ==> DELETE FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:12:58 PM ==> SELECT * FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:13:01 PM ==> SELECT * FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:13:02 PM ==> SELECT * FROM [dbo].[tbEmployees] WHERE [employeeName] = N'أحمد'Funcation name : ExecuteNonQuery
+2021/03/24 12:55:28 PM ==> UPDATE [dbo].[tbEmployees]SET [employeeName] = N'شادى',[employeeCountryCode] = N'+20',[employeeCCName] = N'EG',[employeePhone] = N'01115465523',[employeeAddress] = N'العمرانية',[emmployeeArchiveStatus] = N'0' WHERE [employeeId] = N'65'Funcation name : ExecuteNonQuery
+2021/03/24 3:46:43 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'12' and [emmployeeArchiveStatus] = 0Funcation name : ExecuteNonQuery
+2021/03/24 3:47:40 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'10' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 3:47:46 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'11' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:33:55 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'17' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:34:15 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'17' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:36:04 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'17' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:41:52 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'11' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:45:02 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'11' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:45:07 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'11' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/24 7:47:20 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'0' WHERE [employeeId] = N'10' and [emmployeeArchiveStatus] = N'1'Funcation name : ExecuteNonQuery
+2021/03/24 7:47:28 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'0' WHERE [employeeId] = N'15' and [emmployeeArchiveStatus] = N'1'Funcation name : ExecuteNonQuery
+2021/03/24 7:47:47 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'0' WHERE [employeeId] = N'12' and [emmployeeArchiveStatus] = N'1'Funcation name : ExecuteNonQuery

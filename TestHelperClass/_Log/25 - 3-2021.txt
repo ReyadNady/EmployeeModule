@@ -1,0 +1,2 @@
+2021/03/25 2:08:07 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'1' WHERE [employeeId] = N'23' and [emmployeeArchiveStatus] = N'0'Funcation name : ExecuteNonQuery
+2021/03/25 2:08:27 PM ==> UPDATE [dbo].[tbEmployees]SET [emmployeeArchiveStatus] = N'0' WHERE [employeeId] = N'23' and [emmployeeArchiveStatus] = N'1'Funcation name : ExecuteNonQuery
